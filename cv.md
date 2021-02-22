@@ -39,5 +39,9 @@ __[Coursera](https://www.coursera.org/)__
 * online-course "HTML, CSS, and Javascript for Web Developers"
 * online-course "Visual Elements of User Interface Design"
 * online-course "SQL for Data Science"
+***
+## About me
+I love to learn and constantly seek for new skills and gaining new knowledges. I know how to search for information: even if I don't know how to do something, I'll open Google and try to find out everything by myself. For me learning is not a process that can end. 
+Besides, I love reading. 
 
 
