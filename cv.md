@@ -1,8 +1,8 @@
 # Alexandra Kanishcheva
 ***
 Lipetsk
-sasha.kanischewa@yandex.ru
 +7-980-266-97-81
+sasha.kanischewa@yandex.ru
 ***
 ## Education
 __2018-2023__: department of Information Technology and Computer Security; Voronezh State Technical University, Russia
