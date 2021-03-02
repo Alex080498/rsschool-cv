@@ -1,0 +1,58 @@
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #d8f1f1;
+}
+
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 50px 10px;
+
+}
+
+.content-items {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+}
+.main-img {
+    width: 170px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+
+.flex-boxes {
+    display: flex;
+    justify-content: center;
+}
+
+.block {
+    width: 50%;
+    padding-left: 50;
+}
+
+.about-me {
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 51%;
+
+}
+.job {
+font-weight: bold;
+}
+
+.items {
+    font-style: italic;
+}
+
+.h2-class {
+    text-align: center;
+    border: black solid 2px;
+    background-color: #B0E6E7;
+}
+.info {
+    list-style: none;
+}
