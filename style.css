@@ -53,3 +53,6 @@ font-weight: bold;
     border: black solid 2px;
     background-color: #B0E6E7;
 }
+.info {
+    list-style: none;
+}
